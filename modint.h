@@ -1,0 +1,1 @@
+#ifndef MODINT_H#define MODINT_H#include <MacTypes.h>#define uint32_t unsigned long#define uint16_t UInt16#define uint8_t UInt8#define int32_t long#define int16_t SInt16#define int8_t SInt8#define bool_t char#ifndef NULL#define NULL ((void*)0)#endif#endif
